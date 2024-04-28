@@ -1,6 +1,5 @@
 # Dharani_Portfolio
 
-Simple Portfolio Project
 This is a simple portfolio project created using HTML and CSS. 
 It consists of two pages: Home and Contact.
 
